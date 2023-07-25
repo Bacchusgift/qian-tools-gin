@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Bacchusgift/qian-tools-gin/sample/web/router"
 	"github.com/gin-gonic/gin"
-	"qian-tools-gin/sample/web/router"
 )
 
 func main() {

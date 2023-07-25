@@ -1,8 +1,8 @@
 package router
 
 import (
+	"github.com/Bacchusgift/qian-tools-gin/middleware"
 	"github.com/gin-gonic/gin"
-	"qian-tools-gin/middleware"
 )
 
 // 注册路由
